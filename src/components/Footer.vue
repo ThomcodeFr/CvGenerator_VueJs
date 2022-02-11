@@ -10,6 +10,7 @@
 
 <style>
 #footer {
+  position: relative;
   text-align: center;
   color: black;
 }

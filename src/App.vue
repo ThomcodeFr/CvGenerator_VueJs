@@ -49,6 +49,6 @@ h2{
 
 .background {
   background: url('./assets/network.jpg');
-  height: 500px;
+  height: auto;
 }
 </style>
