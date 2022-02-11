@@ -1,6 +1,6 @@
 <template>
 <div id="footer">
-  <p>Copyright 2022 - Pop School Project - Thomas</p>
+  <p>© Copyright 2022 - Pop School Project - Thomas</p>
 </div>
 </template>
 

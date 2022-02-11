@@ -1,17 +1,15 @@
 <template>
   <div id="app">
     <img id="home-logo" src= "@/assets/logo-blue.png" alt="Logo des 8 fantastiques"/>
-    <Home />
+    <Header />
     <Content />
     <Footer />
-
-
   </div>
 
 </template>
 
 <script>
-import Home from './components/Home'
+import Header from './components/Header'
 import Content from './components/HomeContent'
 import Footer from './components/HomeFooter'
 
@@ -19,7 +17,7 @@ import Footer from './components/HomeFooter'
 export default {
   name: 'App',
   components: {
-    Home,
+    Header,
     Content,
     Footer,
   },

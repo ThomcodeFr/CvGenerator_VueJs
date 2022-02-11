@@ -7,6 +7,7 @@
         <li><a href="#">Generator</a></li>
         <li><a href="#">About</a></li>
         <li><a href="#">Connexion</a></li>
+        <li><a href="#">Mention Legale</a></li>
       </ul>
     </nav>
   </div>
