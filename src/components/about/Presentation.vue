@@ -30,6 +30,9 @@
 
 h2 {
   padding: 20px 0 0 15px;
+  text-align: center;
+  text-transform: uppercase;
+
 }
 
 h3 {
@@ -39,8 +42,9 @@ h3 {
 
 p {
   color: #FFF;
-  padding: 0 15px 0 15px;
+  padding: 0 30px 0 30px;
   text-align: justify;
+  font-weight: 700;
 }
 
 </style>

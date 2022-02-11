@@ -1,16 +1,13 @@
 <template>
-<div id="footer">
-  <p>© Copyright 2022 - Pop School Project - Thomas</p>
-</div>
+  <div id="footer">
+    <p>© Copyright 2022 - Pop School Project - Thomas</p>
+  </div>
 </template>
 
-<script>
-
-</script>
+<script></script>
 
 <style>
-#footer {
-  position: relative;
+#footer p {
   text-align: center;
   color: black;
 }
