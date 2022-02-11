@@ -10,8 +10,8 @@
 
 <script>
 import Header from './components/Header'
-import Content from './components/HomeContent'
-import Footer from './components/HomeFooter'
+import Content from './pages/About'
+import Footer from './components/Footer'
 
 
 export default {
