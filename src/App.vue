@@ -10,6 +10,7 @@
 
 <script>
 import Header from './components/Header'
+/* import Content from './components/Content' */
 import Content from './pages/About'
 import Footer from './components/Footer'
 
@@ -35,5 +36,19 @@ export default {
 #home-logo {
   position : relative;
   width: 150px;
+}
+
+
+h1 {
+    color: rgb(193, 162, 109);
+}
+
+h2{
+    color: rgb(193, 162, 109);
+}
+
+.background {
+  background: url('./assets/network.jpg');
+  height: 500px;
 }
 </style>
